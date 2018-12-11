@@ -1,0 +1,67 @@
+﻿<Window x:Class="ZarysManagment2018.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZarysManagment2018"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1000">
+
+    <FrameworkElement.Resources>
+        <Style x:Key="DGHeaderStyle" TargetType="{x:Type DataGrid}">
+            <Setter Property="DataGrid.ColumnHeaderStyle" Value="{DynamicResource DGCHeaderStyle}"/>
+        </Style>
+        <Style x:Key="DGCHeaderStyle" TargetType="{x:Type DataGridColumnHeader}">
+            <Setter Property="FrameworkElement.Height" Value="30"/>
+            <Setter Property="Control.Background" Value="White"/>
+            <Setter Property="Control.Foreground" Value="Black"/>
+            <Setter Property="Control.FontSize" Value="14"/>
+            <Setter Property="Control.FontFamily" Value="Calibri"/>
+            <Setter Property="Control.BorderThickness" Value="0.5"/>
+            <Setter Property="Control.BorderBrush" Value="Black"/>
+        </Style>
+        <Style x:Key="panele" TargetType="{x:Type DockPanel}">
+            <Setter Property="Panel.Background" Value="Red"/>
+        </Style>
+        <Style x:Key="panele2" TargetType="{x:Type StackPanel}">
+            <Setter Property="Panel.Background" Value="Red"/>
+        </Style>
+    </FrameworkElement.Resources>
+
+
+
+    <TabControl SelectionChanged="Selector_OnSelectionChanged" Name="tabcontrol1">
+        <TabItem Header="Bazy">
+            <Grid>
+
+                <DataGrid MouseDoubleClick="datagridZam_MouseDoubleClick" Name="datagridZam" HorizontalAlignment="Left"
+                  Height="400" Margin="314,271,0,0" VerticalAlignment="Top" Width="400" AutoGenerateColumns="false">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Data zamówienia" Binding="{Binding czas_utworzenia, StringFormat=yyyy-MM-dd}"/>
+                        <DataGridTextColumn Header="Nabywca" Width="2*" CanUserResize="false" Binding="{Binding nabywca}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Click="Button_Click" Content="Dodaj Zamowienie" HorizontalAlignment="Left" Margin="345,88,0,0"
+                        VerticalAlignment="Top" Width="125"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Zamowienie"  Name="tabitem2" Width="200" >
+
+
+        </TabItem>
+        <TabItem Header ="Zarzadzaj bazami">
+                 <Grid>
+         <Button Click="BaseXMLWindow" Content="Zarządzaj bazą XML" HorizontalAlignment="Left" Margin="345,33,0,0"
+                                                              VerticalAlignment="Top" Width="125"/>
+            
+            <Button Click="Button_Click_1" Content="Utworz baze sprzedazy" HorizontalAlignment="Left"
+                Margin="204,158,0,0" VerticalAlignment="Top" Width="75" IsEnabled="false"/>
+            <Button Click="Button_Click_2" Content="Edytuj baze sprzedazy" HorizontalAlignment="Left"
+                Margin="394,180,0,0" VerticalAlignment="Top" Width="75" IsEnabled="false"/>
+                     <Button Click="Button_Click_3" Content="Baza Klientow" HorizontalAlignment="Left" Margin="40,110,0,0"
+                             VerticalAlignment="Top" Width="95" IsEnabled="false"/>
+            </Grid>
+        </TabItem>
+    </TabControl>
+
+</Window>

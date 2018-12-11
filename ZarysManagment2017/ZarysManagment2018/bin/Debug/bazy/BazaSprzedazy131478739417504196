@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSprzedaz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sprzedaz>
+    <klient>
+      <NIP>6290004043</NIP>
+      <nazwa_firmy>„METALSZCZOT” </nazwa_firmy>
+      <skrot>Chochół</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„METALSZCZOT” 
+Szczotki Techniczne Henryk Chochół
+ ul. Orla 15, 42-530 Dąbrowa Górnicza
+NIP: 629-000-40-43
+
+</dane_do_fv>
+      <dane_adresowe>Szczotki Techniczne Henryk Chochół   ul. Orla 15, 42-530 Dąbrowa Górnicza  </dane_adresowe>
+    </klient>
+    <date>03.07</date>
+    <nr_fv>374/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/33/1200</nazwa_towaru>
+        <ilosc>364,80</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6211512384</NIP>
+      <nazwa_firmy>CZYSTOŚĆ Szczotki Techniczne Leszek Mrozkowiak</nazwa_firmy>
+      <skrot>Mrozkowiak</skrot>
+      <nr_telefonu>505189131</nr_telefonu>
+      <dane_do_fv>
+CZYSTOŚĆ Szczotki Techniczne Leszek Mrozkowiak
+ul. Ogrodowskiego 43, 63-700 Krotoszyn
+NIP: 621-151-23-84
+tel. 505 189 131
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Ogrodowskiego 43, 63-700 Krotoszyn  </dane_adresowe>
+    </klient>
+    <date>03.07</date>
+    <nr_fv>375/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>60/33/1200</nazwa_towaru>
+        <ilosc>373,00</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8771164376</NIP>
+      <nazwa_firmy>Przedsiębiorstwo Drzewne „JAWOR”</nazwa_firmy>
+      <skrot>Jawor</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Przedsiębiorstwo Drzewne „JAWOR”
+Antoni Jan Gawiński
+13-300 Nowe Miasto Lubawskie,  ul. Grunwaldzka 87
+NIP: 877-116-43-76
+
+</dane_do_fv>
+      <dane_adresowe>Antoni Jan Gawiński  13-300 Nowe Miasto Lubawskie,  ul. Grunwaldzka 87  </dane_adresowe>
+    </klient>
+    <date>03.07</date>
+    <nr_fv>376/07//17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>160/00/pas</nazwa_towaru>
+        <ilosc>636,70</ilosc>
+        <cena_jednostkowa>18,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>250</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8522549350</NIP>
+      <nazwa_firmy>SOLANO.pl  Sp. z o.o.</nazwa_firmy>
+      <skrot>Solano</skrot>
+      <nr_telefonu>914215016914215015</nr_telefonu>
+      <dane_do_fv>
+SOLANO.pl  Sp. z o.o.
+ul. Boh. Warszawy 11b, 70-370 Szczecin
+NIP: 852-25-49-350
+tel/fax  91 421 50 16, tel. 91 421 50 15
+
+</dane_do_fv>
+      <dane_adresowe>ul. Boh. Warszawy 11b, 70-370 Szczecin  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>377/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/00/K200</nazwa_towaru>
+        <ilosc>8,80</ilosc>
+        <cena_jednostkowa>27,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5270250488</NIP>
+      <nazwa_firmy>NTC – Instal Mirosław Szostek</nazwa_firmy>
+      <skrot>NTc</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+NTC – Instal Mirosław Szostek
+01-377 Warszawa, ul. Połczyńska 23
+NIP: 527-025-04-88
+
+
+</dane_do_fv>
+      <dane_adresowe>01-377 Warszawa, ul. Połczyńska 23  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>378/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>47,80</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>25/01/1200</nazwa_towaru>
+        <ilosc>28,10</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>13/01/1200</nazwa_towaru>
+        <ilosc>10,40</ilosc>
+        <cena_jednostkowa>29,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7631499478</NIP>
+      <nazwa_firmy>Zakład Produkcyjno Handlowy </nazwa_firmy>
+      <skrot>Metal-Szczot</skrot>
+      <nr_telefonu>672547032672547032</nr_telefonu>
+      <dane_do_fv>
+Zakład Produkcyjno Handlowy 
+METAL-SZCZOT
+64-510 Wronki, ul. Nowowiejska 60b
+NIP: 763-14-99-478
+ tel. 67 254 70 32, kom 672 547 032
+
+
+</dane_do_fv>
+      <dane_adresowe>METAL-SZCZOT  64-510 Wronki, ul. Nowowiejska 60b  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>379/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>60/33/1200</nazwa_towaru>
+        <ilosc>29,90</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9482579031</NIP>
+      <nazwa_firmy>Hosten Polska  Spółka z ograniczoną odpowiedzialnością Sp. K.</nazwa_firmy>
+      <skrot>Hosten</skrot>
+      <nr_telefonu>48366992326</nr_telefonu>
+      <dane_do_fv>
+Hosten Polska  Spółka z ograniczoną odpowiedzialnością Sp. K.
+ul. 1905 Roku 1/9
+26-600 Radom
+NIP: 948-25-79-031
+tel. 48 366 99 23, fax  w. 26
+</dane_do_fv>
+      <dane_adresowe>ul. 1905 Roku 1/9  26-600 Radom  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>380/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>70/00/K250</nazwa_towaru>
+        <ilosc>125,80</ilosc>
+        <cena_jednostkowa>21,10</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>K250</nazwa_towaru>
+        <ilosc>24</ilosc>
+        <cena_jednostkowa>17,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>133</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5541020838</NIP>
+      <nazwa_firmy>Dudek Paragliders sp. jawna</nazwa_firmy>
+      <skrot>Dudek</skrot>
+      <nr_telefonu>523849911</nr_telefonu>
+      <dane_do_fv>
+Dudek Paragliders sp. jawna
+ul. Centralna 2U,   86-031 Osielsko
+tel. 52 384 99 11
+NIP: 554-10-20-838
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Centralna 2U,   86-031 Osielsko  tel. 52 384 99 11  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>381/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>240/00/pas</nazwa_towaru>
+        <ilosc>28,00</ilosc>
+        <cena_jednostkowa>20,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>300/00/pas</nazwa_towaru>
+        <ilosc>28,20</ilosc>
+        <cena_jednostkowa>20,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>38</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7811875316</NIP>
+      <nazwa_firmy>JP PROMIS Spółka z ograniczoną odpowiedzialnością spółka komandytowa</nazwa_firmy>
+      <skrot>Promis</skrot>
+      <nr_telefonu>601543607</nr_telefonu>
+      <dane_do_fv>
+JP PROMIS Spółka z ograniczoną odpowiedzialnością spółka komandytowa
+ul. E. Sczanieckiej 9a/5
+60-215 Poznań
+NIP 7811875316
+ tel. 601 543 607
+
+</dane_do_fv>
+      <dane_adresowe>ul. E. Sczanieckiej 9a/5  60-215 Poznań  </dane_adresowe>
+    </klient>
+    <date>04.07</date>
+    <nr_fv>382/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>150/00/pas</nazwa_towaru>
+        <ilosc>318,70</ilosc>
+        <cena_jednostkowa>20,10</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8390007645</NIP>
+      <nazwa_firmy>Spółdzielnia Niewidomych</nazwa_firmy>
+      <skrot>Słup</skrot>
+      <nr_telefonu>5984683678428461</nr_telefonu>
+      <dane_do_fv>
+Spółdzielnia Niewidomych
+ Zakład Pracy Chronionej
+76-200 Słupsk, ul. M.C. Skłodowskiej 3
+NIP: 839-000-76-45
+tel.  59 846 83 67, centrala 842 84 61
+
+</dane_do_fv>
+      <dane_adresowe> Zakład Pracy Chronionej  76-200 Słupsk, ul. M.C. Skłodowskiej 3  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>383/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>29,90</ilosc>
+        <cena_jednostkowa>17,70</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/zie/1200</nazwa_towaru>
+        <ilosc>27,40</ilosc>
+        <cena_jednostkowa>18,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/nie/1200</nazwa_towaru>
+        <ilosc>54,00</ilosc>
+        <cena_jednostkowa>18,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>76</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>1434305482633372</NIP>
+      <nazwa_firmy>Skoczowska Fabryka Kapeluszy  POLKAP S.A.
+ ul. Powstańców Śląskich 1
+43-430 Skoczów
+NIP 548 263 33 72</nazwa_firmy>
+      <skrot>Polkap</skrot>
+      <nr_telefonu>662264757338533331</nr_telefonu>
+      <dane_do_fv>Skoczowska Fabryka Kapeluszy  POLKAP S.A.
+ ul. Powstańców Śląskich 1
+43-430 Skoczów
+NIP 548 263 33 72
+tel. 662 264 757, 33  853 33 31
+
+</dane_do_fv>
+      <dane_adresowe>tel. 662 264 757, 33  853 33 31  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>384/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>28,40</ilosc>
+        <cena_jednostkowa>19,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9251003348</NIP>
+      <nazwa_firmy>„GORESS” Sp. z  o. o.</nazwa_firmy>
+      <skrot>GS</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„GORESS” Sp. z  o. o.
+67-100 Nowa Sól, ul. Przyszłości 7 
+NIP: 925-10-03-348
+
+</dane_do_fv>
+      <dane_adresowe>67-100 Nowa Sól, ul. Przyszłości 7   </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>385/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>08/00/1300</nazwa_towaru>
+        <ilosc>548,40</ilosc>
+        <cena_jednostkowa>36,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>180</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9251003348</NIP>
+      <nazwa_firmy>„GORESS” Sp. z  o. o.</nazwa_firmy>
+      <skrot>GS</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„GORESS” Sp. z  o. o.
+67-100 Nowa Sól, ul. Przyszłości 7 
+NIP: 925-10-03-348
+
+</dane_do_fv>
+      <dane_adresowe>67-100 Nowa Sól, ul. Przyszłości 7   </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>386/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/33/1200</nazwa_towaru>
+        <ilosc>29,90</ilosc>
+        <cena_jednostkowa>17,60</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7540403981</NIP>
+      <nazwa_firmy>P.P.H. BAMAR-POL Sp.J. D. Błacha</nazwa_firmy>
+      <skrot>Bamar-Pol</skrot>
+      <nr_telefonu>774211371106112</nr_telefonu>
+      <dane_do_fv>
+P.P.H. BAMAR-POL Sp.J. D. Błacha
+45-587 Opole,  ul. Graniczna 2
+NIP: 754-04-03-981
+tel: 77 421 13 71 w. 106, 112
+</dane_do_fv>
+      <dane_adresowe>45-587 Opole,  ul. Graniczna 2  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>387/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/00/pas</nazwa_towaru>
+        <ilosc>52,50</ilosc>
+        <cena_jednostkowa>21,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>38</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9461549958</NIP>
+      <nazwa_firmy>Firma Handlowa KABIS </nazwa_firmy>
+      <skrot>Kabis</skrot>
+      <nr_telefonu>817501215663726701</nr_telefonu>
+      <dane_do_fv>
+Firma Handlowa KABIS 
+20-258 Lublin, Łuszczów I 73
+NIP: 946-154-99-58
+tel. 81 750 12 15, 663 726 701
+
+</dane_do_fv>
+      <dane_adresowe>20-258 Lublin, Łuszczów I 73  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>388/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/00/K200</nazwa_towaru>
+        <ilosc>50,90</ilosc>
+        <cena_jednostkowa>22,10</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6530000034</NIP>
+      <nazwa_firmy>Spółdzielnia „TECHNOSZCZOT”</nazwa_firmy>
+      <skrot>T-szczot</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Spółdzielnia „TECHNOSZCZOT”
+ul. Gen. J. Ziętka 15, 41-940 Piekary Śląskie
+NIP: 653-000-00-34
+
+</dane_do_fv>
+      <dane_adresowe>ul. Gen. J. Ziętka 15, 41-940 Piekary Śląskie  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>389/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>20/01/1200</nazwa_towaru>
+        <ilosc>27,90</ilosc>
+        <cena_jednostkowa>20,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>40/01/1200</nazwa_towaru>
+        <ilosc>322,20</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>70/01/1200</nazwa_towaru>
+        <ilosc>86,60</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>80/01/1200</nazwa_towaru>
+        <ilosc>129,90</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>100/01/1200</nazwa_towaru>
+        <ilosc>127,70</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5840203127</NIP>
+      <nazwa_firmy>„SINOL” Spółdzielnia Niewidomych </nazwa_firmy>
+      <skrot>Sinol</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„SINOL” Spółdzielnia Niewidomych 
+ul. Bażyńskiego 32,   80-309 Gdańsk-Oliwa
+NIP: 584-020-31-27
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Bażyńskiego 32,   80-309 Gdańsk-Oliwa  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>390/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/33/1200</nazwa_towaru>
+        <ilosc>591,80</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7790048848</NIP>
+      <nazwa_firmy>Handel Detaliczny i Hurtowy</nazwa_firmy>
+      <skrot>Ratuszny</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Handel Detaliczny i Hurtowy
+Krzysztof Ratuszny
+62-030 Luboń., ul. Prusa 3
+NIP: 779-004-88-48
+
+</dane_do_fv>
+      <dane_adresowe>Krzysztof Ratuszny  62-030 Luboń., ul. Prusa 3  </dane_adresowe>
+    </klient>
+    <date>05.07</date>
+    <nr_fv>391/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/00/K200</nazwa_towaru>
+        <ilosc>24,60</ilosc>
+        <cena_jednostkowa>21,60</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>38</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6571128475</NIP>
+      <nazwa_firmy>PUH “CEDROX” </nazwa_firmy>
+      <skrot>Cedrox</skrot>
+      <nr_telefonu>509813800</nr_telefonu>
+      <dane_do_fv>
+PUH “CEDROX” 
+Józef Cedro
+ul. M. J. Piłsudskiego 18/54, 25-431 Kielce
+NIP: 657-112-84-75
+tel. 509 813 800
+
+</dane_do_fv>
+      <dane_adresowe>Józef Cedro  ul. M. J. Piłsudskiego 18/54, 25-431 Kielce  </dane_adresowe>
+    </klient>
+    <date>06.07</date>
+    <nr_fv>392/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>G270/żół/pas</nazwa_towaru>
+        <ilosc>27,80</ilosc>
+        <cena_jednostkowa>21,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19.2</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8931161175</NIP>
+      <nazwa_firmy>P.P.P.H. WERONIKA Edyta Wyrzykowska</nazwa_firmy>
+      <skrot>Weronika</skrot>
+      <nr_telefonu>887922061</nr_telefonu>
+      <dane_do_fv>
+P.P.P.H. WERONIKA Edyta Wyrzykowska
+ul. Kasztanowa 3
+87-630 Skępe
+NIP 893-116-11-75
+tel. 887 922 061
+</dane_do_fv>
+      <dane_adresowe>ul. Kasztanowa 3  87-630 Skępe  </dane_adresowe>
+    </klient>
+    <date>06.07</date>
+    <nr_fv>393/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>25/33/K200</nazwa_towaru>
+        <ilosc>16,80</ilosc>
+        <cena_jednostkowa>25,20</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>22</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6750004956</NIP>
+      <nazwa_firmy>„SANEL”</nazwa_firmy>
+      <skrot>SA</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„SANEL”
+Krakowska Spółdzielnia Niewidomych
+ul. Bandtkiego 19,   30-129 Kraków
+NIP: 675-000-49-56
+
+</dane_do_fv>
+      <dane_adresowe>Krakowska Spółdzielnia Niewidomych  ul. Bandtkiego 19,   30-129 Kraków  </dane_adresowe>
+    </klient>
+    <date>06.07</date>
+    <nr_fv>394/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>56,20</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6571622123</NIP>
+      <nazwa_firmy>Firma Handlowo-Usługowa</nazwa_firmy>
+      <skrot>Kaleta</skrot>
+      <nr_telefonu>661967107</nr_telefonu>
+      <dane_do_fv>
+Firma Handlowo-Usługowa
+Kaleta Stanisław
+25-255 Kielce, ul. Wikaryjska 99
+NIP: 657-162-21-23
+tel. 661 967 107
+
+</dane_do_fv>
+      <dane_adresowe>Kaleta Stanisław  25-255 Kielce, ul. Wikaryjska 99  </dane_adresowe>
+    </klient>
+    <date>07.07</date>
+    <nr_fv>395/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>G300/żół/pas</nazwa_towaru>
+        <ilosc>27,90</ilosc>
+        <cena_jednostkowa>21,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19.8</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9482579031</NIP>
+      <nazwa_firmy>Hosten Polska  Spółka z ograniczoną odpowiedzialnością Sp. K.</nazwa_firmy>
+      <skrot>Hosten</skrot>
+      <nr_telefonu>48366992326</nr_telefonu>
+      <dane_do_fv>
+Hosten Polska  Spółka z ograniczoną odpowiedzialnością Sp. K.
+ul. 1905 Roku 1/9
+26-600 Radom
+NIP: 948-25-79-031
+tel. 48 366 99 23, fax  w. 26
+</dane_do_fv>
+      <dane_adresowe>ul. 1905 Roku 1/9  26-600 Radom  </dane_adresowe>
+    </klient>
+    <date>07.07</date>
+    <nr_fv>396/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>K250</nazwa_towaru>
+        <ilosc>18</ilosc>
+        <cena_jednostkowa>17,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5270250488</NIP>
+      <nazwa_firmy>NTC – Instal Mirosław Szostek</nazwa_firmy>
+      <skrot>NTc</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+NTC – Instal Mirosław Szostek
+01-377 Warszawa, ul. Połczyńska 23
+NIP: 527-025-04-88
+
+
+</dane_do_fv>
+      <dane_adresowe>01-377 Warszawa, ul. Połczyńska 23  </dane_adresowe>
+    </klient>
+    <date>10.07</date>
+    <nr_fv>397/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>60,40</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>80/01/1200</nazwa_towaru>
+        <ilosc>29,30</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8831767814</NIP>
+      <nazwa_firmy>BALSAX  E.M. Łabowicz Sp.J.</nazwa_firmy>
+      <skrot>BX</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+BALSAX  E.M. Łabowicz Sp.J.
+ ul. Wyspiańskiego 65
+57-300 Kłodzko
+ NIP: 883-176-78-14
+
+</dane_do_fv>
+      <dane_adresowe> ul. Wyspiańskiego 65  57-300 Kłodzko  </dane_adresowe>
+    </klient>
+    <date>10.07</date>
+    <nr_fv>398/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/00/pas</nazwa_towaru>
+        <ilosc>182,60</ilosc>
+        <cena_jednostkowa>20,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>130/00/pas</nazwa_towaru>
+        <ilosc>50,30</ilosc>
+        <cena_jednostkowa>20,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>200/00/pas</nazwa_towaru>
+        <ilosc>56,60</ilosc>
+        <cena_jednostkowa>20,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>125</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9291428338</NIP>
+      <nazwa_firmy>P.W.  OTEX Krystyna Otylewska</nazwa_firmy>
+      <skrot>Otex</skrot>
+      <nr_telefonu>509302277</nr_telefonu>
+      <dane_do_fv>
+P.W.  OTEX Krystyna Otylewska
+ul. Struga 1
+65-331 Zielona Góra
+tel. 509 302 277
+NIP: 929-142-83- 38
+
+</dane_do_fv>
+      <dane_adresowe>ul. Struga 1  65-331 Zielona Góra  tel. 509 302 277  </dane_adresowe>
+    </klient>
+    <date>10.07</date>
+    <nr_fv>399/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>70/00/K250</nazwa_towaru>
+        <ilosc>73,70</ilosc>
+        <cena_jednostkowa>21,10</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>76</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7631499478</NIP>
+      <nazwa_firmy>Zakład Produkcyjno Handlowy </nazwa_firmy>
+      <skrot>Metal-Szczot</skrot>
+      <nr_telefonu>672547032672547032</nr_telefonu>
+      <dane_do_fv>
+Zakład Produkcyjno Handlowy 
+METAL-SZCZOT
+64-510 Wronki, ul. Nowowiejska 60b
+NIP: 763-14-99-478
+ tel. 67 254 70 32, kom 672 547 032
+
+
+</dane_do_fv>
+      <dane_adresowe>METAL-SZCZOT  64-510 Wronki, ul. Nowowiejska 60b  </dane_adresowe>
+    </klient>
+    <date>11.07</date>
+    <nr_fv>400/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>15/01/1200</nazwa_towaru>
+        <ilosc>14,90</ilosc>
+        <cena_jednostkowa>26,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>14,00</ilosc>
+        <cena_jednostkowa>20,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8943069280</NIP>
+      <nazwa_firmy>BESTA im. STANISŁAWA TOMKÓW spółka z ograniczoną odpowiedzialnością spółka komandytowa
+ul. Strzegomska 55E/F,  53-611 Wrocław</nazwa_firmy>
+      <skrot>Besta</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+
+BESTA im. STANISŁAWA TOMKÓW spółka z ograniczoną odpowiedzialnością spółka komandytowa
+ul. Strzegomska 55E/F,  53-611 Wrocław
+NIP: 8943069280
+71 359 06 00,  503 127 790
+
+</dane_do_fv>
+      <dane_adresowe />
+    </klient>
+    <date>11.07</date>
+    <nr_fv>401/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>70/00/K250</nazwa_towaru>
+        <ilosc>156,8</ilosc>
+        <cena_jednostkowa>20,6</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8831767814</NIP>
+      <nazwa_firmy>BALSAX  E.M. Łabowicz Sp.J.</nazwa_firmy>
+      <skrot>BX</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+BALSAX  E.M. Łabowicz Sp.J.
+ ul. Wyspiańskiego 65
+57-300 Kłodzko
+ NIP: 883-176-78-14
+
+</dane_do_fv>
+      <dane_adresowe> ul. Wyspiańskiego 65  57-300 Kłodzko  </dane_adresowe>
+    </klient>
+    <date>12.07</date>
+    <nr_fv>402/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>G240/pom/pas</nazwa_towaru>
+        <ilosc>310,20</ilosc>
+        <cena_jednostkowa>18,90</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G270/pom/pas</nazwa_towaru>
+        <ilosc>133,80</ilosc>
+        <cena_jednostkowa>18,90</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G330/pom/pas</nazwa_towaru>
+        <ilosc>170,50</ilosc>
+        <cena_jednostkowa>18,90</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>250</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7770001080</NIP>
+      <nazwa_firmy>“SINPO” Spółdzielnia Niewidomych</nazwa_firmy>
+      <skrot>SO</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+“SINPO” Spółdzielnia Niewidomych
+60-544 Poznań, ul. Żeromskiego 9
+NIP: 777-00-01-080
+
+
+</dane_do_fv>
+      <dane_adresowe>60-544 Poznań, ul. Żeromskiego 9  </dane_adresowe>
+    </klient>
+    <date>12.07</date>
+    <nr_fv>403/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>28,00</ilosc>
+        <cena_jednostkowa>17,60</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6931455381227463646810003625</NIP>
+      <nazwa_firmy>Z.P.H. Crawtico</nazwa_firmy>
+      <skrot>Crawtico</skrot>
+      <nr_telefonu>6931455381227463646810003625</nr_telefonu>
+      <dane_do_fv>
+Z.P.H. Crawtico
+32-447 Siepraw, ul. Słowiańska 39
+tel. 693 14 55 38, tel/fax: 12 274 63 64
+NIP:  681-000-36-25
+
+</dane_do_fv>
+      <dane_adresowe>32-447 Siepraw, ul. Słowiańska 39  </dane_adresowe>
+    </klient>
+    <date>12.07</date>
+    <nr_fv>404/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/nie/1200</nazwa_towaru>
+        <ilosc>129,00</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>50/00/1200</nazwa_towaru>
+        <ilosc>158,30</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>100/00/1200</nazwa_towaru>
+        <ilosc>28,70</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8940081228</NIP>
+      <nazwa_firmy>AGORA PPHU Grażyna Gałczyńska</nazwa_firmy>
+      <skrot>Agora</skrot>
+      <nr_telefonu>713645040</nr_telefonu>
+      <dane_do_fv>
+AGORA PPHU Grażyna Gałczyńska
+ul. Ludwika Solskiego 6, 52-416 Wrocław
+NIP: 894-008-12-28
+tel. 71 364 50 40
+
+</dane_do_fv>
+      <dane_adresowe>ul. Ludwika Solskiego 6, 52-416 Wrocław  </dane_adresowe>
+    </klient>
+    <date>13.07</date>
+    <nr_fv>405/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/00/K200</nazwa_towaru>
+        <ilosc>4,30</ilosc>
+        <cena_jednostkowa>30,00</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>K200</nazwa_towaru>
+        <ilosc>2</ilosc>
+        <cena_jednostkowa>18,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6340129233</NIP>
+      <nazwa_firmy>MANUS Sp. z o.o.</nazwa_firmy>
+      <skrot>Manus</skrot>
+      <nr_telefonu>605948653</nr_telefonu>
+      <dane_do_fv>
+MANUS Sp. z o.o.
+40-234 Katowice, ul. Burowiecka 34
+NIP: 634-012-92-33
+tel. 605 948 653
+
+</dane_do_fv>
+      <dane_adresowe>40-234 Katowice, ul. Burowiecka 34  </dane_adresowe>
+    </klient>
+    <date>14.07</date>
+    <nr_fv>406/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>G260/pom/pas</nazwa_towaru>
+        <ilosc>28,00</ilosc>
+        <cena_jednostkowa>22,00</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G270/żół/pas</nazwa_towaru>
+        <ilosc>27,30</ilosc>
+        <cena_jednostkowa>22,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>40</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6750004956</NIP>
+      <nazwa_firmy>„SANEL”</nazwa_firmy>
+      <skrot>SA</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+„SANEL”
+Krakowska Spółdzielnia Niewidomych
+ul. Bandtkiego 19,   30-129 Kraków
+NIP: 675-000-49-56
+
+</dane_do_fv>
+      <dane_adresowe>Krakowska Spółdzielnia Niewidomych  ul. Bandtkiego 19,   30-129 Kraków  </dane_adresowe>
+    </klient>
+    <date>17.07</date>
+    <nr_fv>407/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>271,50</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/33/1200</nazwa_towaru>
+        <ilosc>126,80</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/cze/1200</nazwa_towaru>
+        <ilosc>54,40</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/żół/1200</nazwa_towaru>
+        <ilosc>54,60</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/ziel/1200</nazwa_towaru>
+        <ilosc>54,80</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/nieb/1200</nazwa_towaru>
+        <ilosc>54,70</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>40/01/1200</nazwa_towaru>
+        <ilosc>64,50</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>64,20</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6530000034</NIP>
+      <nazwa_firmy>Spółdzielnia „TECHNOSZCZOT”</nazwa_firmy>
+      <skrot>T-szczot</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Spółdzielnia „TECHNOSZCZOT”
+ul. Gen. J. Ziętka 15, 41-940 Piekary Śląskie
+NIP: 653-000-00-34
+
+</dane_do_fv>
+      <dane_adresowe>ul. Gen. J. Ziętka 15, 41-940 Piekary Śląskie  </dane_adresowe>
+    </klient>
+    <date>17.07</date>
+    <nr_fv>408/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/01/1200</nazwa_towaru>
+        <ilosc>90,10</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>64,10</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>80/01/1200</nazwa_towaru>
+        <ilosc>64,90</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>90/01/1200</nazwa_towaru>
+        <ilosc>121,40</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>100/01/1200</nazwa_towaru>
+        <ilosc>123,20</ilosc>
+        <cena_jednostkowa>17,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9180003452</NIP>
+      <nazwa_firmy>TKANMET</nazwa_firmy>
+      <skrot>MC</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+TKANMET
+Zakład Produkcji Siatek Czesław Maciocha
+23-400 Biłgoraj, Sól  452
+NIP: 918-000-34-52
+
+</dane_do_fv>
+      <dane_adresowe>Zakład Produkcji Siatek Czesław Maciocha  23-400 Biłgoraj, Sól  452  </dane_adresowe>
+    </klient>
+    <date>17.07</date>
+    <nr_fv>409/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>200/00/pas</nazwa_towaru>
+        <ilosc>56,50</ilosc>
+        <cena_jednostkowa>20,20</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>240/00/pas</nazwa_towaru>
+        <ilosc>56,10</ilosc>
+        <cena_jednostkowa>20,20</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>260/00/pas</nazwa_towaru>
+        <ilosc>141,30</ilosc>
+        <cena_jednostkowa>20,20</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>300/00/pas</nazwa_towaru>
+        <ilosc>56,40</ilosc>
+        <cena_jednostkowa>20,20</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>125</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6551175187</NIP>
+      <nazwa_firmy>PPHU „PALUCH-BIS” Dorota Paluch</nazwa_firmy>
+      <skrot>Paluch</skrot>
+      <nr_telefonu>413782586600708661</nr_telefonu>
+      <dane_do_fv>
+PPHU „PALUCH-BIS” Dorota Paluch
+ul. Królowej Jadwigi 15
+28-100 Busko-Zdrój
+tel. 41 378 25 86, kom. 600 708 661
+NIP: 655-117-51-87
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Królowej Jadwigi 15  28-100 Busko-Zdrój  tel. 41 378 25 86, kom. 600 708 661  </dane_adresowe>
+    </klient>
+    <date>17.07</date>
+    <nr_fv>410/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/żół/pas</nazwa_towaru>
+        <ilosc>122,50</ilosc>
+        <cena_jednostkowa>20,00</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>100/cze/pas</nazwa_towaru>
+        <ilosc>169,50</ilosc>
+        <cena_jednostkowa>20,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>125</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6572077745</NIP>
+      <nazwa_firmy>Przedsiębiorstwo Wielobranżowe BIOCED-KOMUNAL</nazwa_firmy>
+      <skrot>Seb-Cedro</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Przedsiębiorstwo Wielobranżowe BIOCED-KOMUNAL
+Sebastian Cedro
+Domaszowice 282a, 25-900 Kielce
+NIP: 657-207-77-45
+
+
+</dane_do_fv>
+      <dane_adresowe>Sebastian Cedro  Domaszowice 282a, 25-900 Kielce  </dane_adresowe>
+    </klient>
+    <date>17.07</date>
+    <nr_fv>411/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>G300/żół/pas</nazwa_towaru>
+        <ilosc>28,00</ilosc>
+        <cena_jednostkowa>21,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19.2</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7840006422</NIP>
+      <nazwa_firmy>Zakład Powroźniczy Andrzej Chyb</nazwa_firmy>
+      <skrot>Chyb-A</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Zakład Powroźniczy Andrzej Chyb
+62-200 Gniezno, ul. Trzemeszeńska 12
+NIP: 784-000-64-22
+
+</dane_do_fv>
+      <dane_adresowe>62-200 Gniezno, ul. Trzemeszeńska 12  </dane_adresowe>
+    </klient>
+    <date>18.07</date>
+    <nr_fv>412/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/żół/K250</nazwa_towaru>
+        <ilosc>57,20</ilosc>
+        <cena_jednostkowa>21,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>57</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8771164376</NIP>
+      <nazwa_firmy>Przedsiębiorstwo Drzewne „JAWOR”</nazwa_firmy>
+      <skrot>Jawor</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+Przedsiębiorstwo Drzewne „JAWOR”
+Antoni Jan Gawiński
+13-300 Nowe Miasto Lubawskie,  ul. Grunwaldzka 87
+NIP: 877-116-43-76
+
+</dane_do_fv>
+      <dane_adresowe>Antoni Jan Gawiński  13-300 Nowe Miasto Lubawskie,  ul. Grunwaldzka 87  </dane_adresowe>
+    </klient>
+    <date>18.07</date>
+    <nr_fv>413/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>160/00/pas</nazwa_towaru>
+        <ilosc>627,80</ilosc>
+        <cena_jednostkowa>18,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>250</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6180060997</NIP>
+      <nazwa_firmy>PHU  RYSZARD Ryszard Karczyk</nazwa_firmy>
+      <skrot>Ryszard</skrot>
+      <nr_telefonu>627623711</nr_telefonu>
+      <dane_do_fv>
+PHU  RYSZARD Ryszard Karczyk
+62-800 Kalisz, ul. Romańska 37-39
+tel./fax  62 762 37 11
+NIP: 618-006-09-97
+
+</dane_do_fv>
+      <dane_adresowe>62-800 Kalisz, ul. Romańska 37-39  tel./fax  62 762 37 11  </dane_adresowe>
+    </klient>
+    <date>18.07</date>
+    <nr_fv>414/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>35/00/K200</nazwa_towaru>
+        <ilosc>25,40</ilosc>
+        <cena_jednostkowa>23,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>40</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6551175187</NIP>
+      <nazwa_firmy>PPHU „PALUCH-BIS” Dorota Paluch</nazwa_firmy>
+      <skrot>Paluch</skrot>
+      <nr_telefonu>413782586600708661</nr_telefonu>
+      <dane_do_fv>
+PPHU „PALUCH-BIS” Dorota Paluch
+ul. Królowej Jadwigi 15
+28-100 Busko-Zdrój
+tel. 41 378 25 86, kom. 600 708 661
+NIP: 655-117-51-87
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Królowej Jadwigi 15  28-100 Busko-Zdrój  tel. 41 378 25 86, kom. 600 708 661  </dane_adresowe>
+    </klient>
+    <date>18.07</date>
+    <nr_fv>415/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/33/K200</nazwa_towaru>
+        <ilosc>408,50</ilosc>
+        <cena_jednostkowa>20,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7771741867</NIP>
+      <nazwa_firmy>UNIMAT Fabryka Wycieraczek Rafał Rejmisz</nazwa_firmy>
+      <skrot>UniMat</skrot>
+      <nr_telefonu>609534390</nr_telefonu>
+      <dane_do_fv>
+UNIMAT Fabryka Wycieraczek Rafał Rejmisz
+61-248  Poznań, ul. Dziadoszańska 10
+NIP: 777-174-18-67
+tel. 609 534 390
+
+</dane_do_fv>
+      <dane_adresowe>61-248  Poznań, ul. Dziadoszańska 10  </dane_adresowe>
+    </klient>
+    <date>19.07</date>
+    <nr_fv>416/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>40/33/1200</nazwa_towaru>
+        <ilosc>300,90</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>40/szara/1200</nazwa_towaru>
+        <ilosc>260,50</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6851032032</NIP>
+      <nazwa_firmy>Galanteria Drzewna</nazwa_firmy>
+      <skrot>Banaś</skrot>
+      <nr_telefonu>134491150693484390</nr_telefonu>
+      <dane_do_fv>
+Galanteria Drzewna
+Stanisław Banaś
+38-242 Skołyszyn 332
+tel. 13 4491 150, 693 484 390
+NIP: 685-103-20-32
+
+
+</dane_do_fv>
+      <dane_adresowe>Stanisław Banaś  38-242 Skołyszyn 332  tel. 13 4491 150, 693 484 390  </dane_adresowe>
+    </klient>
+    <date>19.07</date>
+    <nr_fv>417/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/00/pas</nazwa_towaru>
+        <ilosc>29,70</ilosc>
+        <cena_jednostkowa>20,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>20</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>24344007352858145664137202</NIP>
+      <nazwa_firmy>CHEMOOGLE s.c.</nazwa_firmy>
+      <skrot>Chemoogle</skrot>
+      <nr_telefonu>24344007352858145664137202</nr_telefonu>
+      <dane_do_fv>
+CHEMOOGLE s.c.
+ul Kokoszków 24 a 
+34-400 Nowy Targ 
+NIP: 735 285 81 45
+tel. 664 137 202 
+</dane_do_fv>
+      <dane_adresowe />
+    </klient>
+    <date>21.07</date>
+    <nr_fv>418/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/33/1200</nazwa_towaru>
+        <ilosc>29,70</ilosc>
+        <cena_jednostkowa>18,40</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>100/01/1200</nazwa_towaru>
+        <ilosc>30,10</ilosc>
+        <cena_jednostkowa>18,40</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>38</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6692491720</NIP>
+      <nazwa_firmy>„AKANT” Monika i Zbigniew Harasym Sp. J.</nazwa_firmy>
+      <skrot>Akant</skrot>
+      <nr_telefonu>943438764</nr_telefonu>
+      <dane_do_fv>
+
+„AKANT” Monika i Zbigniew Harasym Sp. J.
+75-212 Koszalin, ul. Morska 13
+NIP: 669-249-17-20
+tel. 94 343 87 64
+
+</dane_do_fv>
+      <dane_adresowe>75-212 Koszalin, ul. Morska 13  </dane_adresowe>
+    </klient>
+    <date>21.07</date>
+    <nr_fv>419/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>130/00/pas</nazwa_towaru>
+        <ilosc>49,90</ilosc>
+        <cena_jednostkowa>21,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>42</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7230002696</NIP>
+      <nazwa_firmy>PPH WIDA Marianna Kamienowska</nazwa_firmy>
+      <skrot>Wida</skrot>
+      <nr_telefonu>692433745</nr_telefonu>
+      <dane_do_fv>
+PPH WIDA Marianna Kamienowska
+Al. Wojska Polskiego 71c
+18-300 Zambrów
+NIP: 723-000-26-96
+ tel. 692 433 745
+
+</dane_do_fv>
+      <dane_adresowe>Al. Wojska Polskiego 71c  18-300 Zambrów  </dane_adresowe>
+    </klient>
+    <date>24.07</date>
+    <nr_fv>420/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>16/00/K160</nazwa_towaru>
+        <ilosc>201,10</ilosc>
+        <cena_jednostkowa>26,00</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>13,5/00/K160</nazwa_towaru>
+        <ilosc>11,50</ilosc>
+        <cena_jednostkowa>32,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>125</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8821953834</NIP>
+      <nazwa_firmy>PHU DANPOL</nazwa_firmy>
+      <skrot>Pupko</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+PHU DANPOL
+Daniel Pupko
+ul. Szkolna 5
+58-200 Dzierżoniów 
+NIP: 8821953834
+
+</dane_do_fv>
+      <dane_adresowe>Daniel Pupko  ul. Szkolna 5  58-200 Dzierżoniów   </dane_adresowe>
+    </klient>
+    <date>24.07</date>
+    <nr_fv>421/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>240/pom/pas</nazwa_towaru>
+        <ilosc>6,90</ilosc>
+        <cena_jednostkowa>22,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G200/żół/pas</nazwa_towaru>
+        <ilosc>7,10</ilosc>
+        <cena_jednostkowa>22,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G240/pom/pas</nazwa_towaru>
+        <ilosc>7,00</ilosc>
+        <cena_jednostkowa>22,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>G270/pom/pas</nazwa_towaru>
+        <ilosc>7,00</ilosc>
+        <cena_jednostkowa>22,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19.2</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6791008299</NIP>
+      <nazwa_firmy>F.P.H. “A-Z” Stanisław Pamuła</nazwa_firmy>
+      <skrot>AZ</skrot>
+      <nr_telefonu>889342113</nr_telefonu>
+      <dane_do_fv>
+F.P.H. “A-Z” Stanisław Pamuła
+32-040 Rzeszotary, ul. Pod Dębiną 33
+NIP: 679-100-82-99
+tel. 889 342 113
+
+</dane_do_fv>
+      <dane_adresowe>32-040 Rzeszotary, ul. Pod Dębiną 33  </dane_adresowe>
+    </klient>
+    <date>24.07</date>
+    <nr_fv>422/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/żół/pas</nazwa_towaru>
+        <ilosc>283,70</ilosc>
+        <cena_jednostkowa>20,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>125</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6211512384</NIP>
+      <nazwa_firmy>CZYSTOŚĆ Szczotki Techniczne Leszek Mrozkowiak</nazwa_firmy>
+      <skrot>Mrozkowiak</skrot>
+      <nr_telefonu>505189131</nr_telefonu>
+      <dane_do_fv>
+CZYSTOŚĆ Szczotki Techniczne Leszek Mrozkowiak
+ul. Ogrodowskiego 43, 63-700 Krotoszyn
+NIP: 621-151-23-84
+tel. 505 189 131
+
+
+</dane_do_fv>
+      <dane_adresowe>ul. Ogrodowskiego 43, 63-700 Krotoszyn  </dane_adresowe>
+    </klient>
+    <date>24.07</date>
+    <nr_fv>423/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>120,30</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>60/33/1200</nazwa_towaru>
+        <ilosc>298,40</ilosc>
+        <cena_jednostkowa>17,80</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>48598576651538392600732</NIP>
+      <nazwa_firmy>KEGAR Sp. z o.o.</nazwa_firmy>
+      <skrot>Kegar</skrot>
+      <nr_telefonu>48598576651538392600732</nr_telefonu>
+      <dane_do_fv>
+KEGAR Sp. z o.o.
+ul. Składowa 5
+77-230 Kępice
+tel. / fax +48 59 857 66 51 (-53)
+NIP:  839-26-00-732
+
+</dane_do_fv>
+      <dane_adresowe>ul. Składowa 5  77-230 Kępice  </dane_adresowe>
+    </klient>
+    <date>25.07</date>
+    <nr_fv>424/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>200/żół/pas</nazwa_towaru>
+        <ilosc>112,80</ilosc>
+        <cena_jednostkowa>21,20</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>76</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>8943069280</NIP>
+      <nazwa_firmy>BESTA im. STANISŁAWA TOMKÓW spółka z ograniczoną odpowiedzialnością spółka komandytowa
+ul. Strzegomska 55E/F,  53-611 Wrocław</nazwa_firmy>
+      <skrot>Besta</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+
+BESTA im. STANISŁAWA TOMKÓW spółka z ograniczoną odpowiedzialnością spółka komandytowa
+ul. Strzegomska 55E/F,  53-611 Wrocław
+NIP: 8943069280
+71 359 06 00,  503 127 790
+
+</dane_do_fv>
+      <dane_adresowe />
+    </klient>
+    <date>26.07</date>
+    <nr_fv>426/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>70/00/K250</nazwa_towaru>
+        <ilosc>272,10</ilosc>
+        <cena_jednostkowa>20,60</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5340201987</NIP>
+      <nazwa_firmy>P.H.U.P. „TERMID”</nazwa_firmy>
+      <skrot>Termid</skrot>
+      <nr_telefonu>509245275</nr_telefonu>
+      <dane_do_fv>
+P.H.U.P. „TERMID”
+Mirosław Dryzdowski
+Duchnice, ul. Ożarowska 66
+05-850 Ożarów Mazowiecki 
+NIP: 534-020-19-87
+tel.509 245 275
+</dane_do_fv>
+      <dane_adresowe>Mirosław Dryzdowski  Duchnice, ul. Ożarowska 66  05-850 Ożarów Mazowiecki   </dane_adresowe>
+    </klient>
+    <date>26.07</date>
+    <nr_fv>427/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>100/00/pas</nazwa_towaru>
+        <ilosc>30,00</ilosc>
+        <cena_jednostkowa>20,90</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>5270250488</NIP>
+      <nazwa_firmy>NTC – Instal Mirosław Szostek</nazwa_firmy>
+      <skrot>NTc</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+NTC – Instal Mirosław Szostek
+01-377 Warszawa, ul. Połczyńska 23
+NIP: 527-025-04-88
+
+
+</dane_do_fv>
+      <dane_adresowe>01-377 Warszawa, ul. Połczyńska 23  </dane_adresowe>
+    </klient>
+    <date>26.07</date>
+    <nr_fv>428/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>25/01/1200</nazwa_towaru>
+        <ilosc>28,00</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>30/01/1200</nazwa_towaru>
+        <ilosc>86,30</ilosc>
+        <cena_jednostkowa>17,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>0</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>7631499478</NIP>
+      <nazwa_firmy>Zakład Produkcyjno Handlowy </nazwa_firmy>
+      <skrot>Metal-Szczot</skrot>
+      <nr_telefonu>672547032672547032</nr_telefonu>
+      <dane_do_fv>
+Zakład Produkcyjno Handlowy 
+METAL-SZCZOT
+64-510 Wronki, ul. Nowowiejska 60b
+NIP: 763-14-99-478
+ tel. 67 254 70 32, kom 672 547 032
+
+
+</dane_do_fv>
+      <dane_adresowe>METAL-SZCZOT  64-510 Wronki, ul. Nowowiejska 60b  </dane_adresowe>
+    </klient>
+    <date>27.07</date>
+    <nr_fv>429/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/01/1200</nazwa_towaru>
+        <ilosc>27,90</ilosc>
+        <cena_jednostkowa>18,30</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>19</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>6650006393</NIP>
+      <nazwa_firmy>PPHU „REEDEX”</nazwa_firmy>
+      <skrot>Płach-D</skrot>
+      <nr_telefonu>695462052</nr_telefonu>
+      <dane_do_fv>
+PPHU „REEDEX”
+Jarosław Płachciński
+62-540 Kleczew,  ul. Poznańska 39
+NIP: 665-000-63-93
+tel. 695 462 052
+
+</dane_do_fv>
+      <dane_adresowe>Jarosław Płachciński  62-540 Kleczew,  ul. Poznańska 39  </dane_adresowe>
+    </klient>
+    <date>27.07</date>
+    <nr_fv>430/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>50/ziel/K200</nazwa_towaru>
+        <ilosc>154,10</ilosc>
+        <cena_jednostkowa>21,00</cena_jednostkowa>
+      </Towar>
+      <Towar>
+        <nazwa_towaru>60/ziel/K200</nazwa_towaru>
+        <ilosc>152,90</ilosc>
+        <cena_jednostkowa>21,00</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>148</wart_uslugi>
+  </Sprzedaz>
+  <Sprzedaz>
+    <klient>
+      <NIP>9181003649</NIP>
+      <nazwa_firmy>P.P.H. „SÓLMET” Marek Maciocha</nazwa_firmy>
+      <skrot>Sólmet</skrot>
+      <nr_telefonu />
+      <dane_do_fv>
+P.P.H. „SÓLMET” Marek Maciocha
+Sól 452
+23-400 Biłgoraj
+NIP: 918-100-36-49
+
+</dane_do_fv>
+      <dane_adresowe>Sól 452  23-400 Biłgoraj  </dane_adresowe>
+    </klient>
+    <date>28.07</date>
+    <nr_fv>431/07/17</nr_fv>
+    <towary>
+      <Towar>
+        <nazwa_towaru>200/żół/pas</nazwa_towaru>
+        <ilosc>55,20</ilosc>
+        <cena_jednostkowa>20,50</cena_jednostkowa>
+      </Towar>
+    </towary>
+    <wart_uslugi>38</wart_uslugi>
+  </Sprzedaz>
+</ArrayOfSprzedaz>

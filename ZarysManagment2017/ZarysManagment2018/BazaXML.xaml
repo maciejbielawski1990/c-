@@ -1,0 +1,36 @@
+﻿<Window x:Class="ZarysManagment2018.BazaXML"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZarysManagment2018"
+        mc:Ignorable="d"
+        Title="BazaXML" Height="450" Width="800">
+ 
+        <Grid>
+            <Button Click="Button_Click" Content="Utwórz nową bazę XML" HorizontalAlignment="Left" Margin="85,32,0,0"
+                    VerticalAlignment="Top" Width="150" Height="37"/>
+            <Grid Name="GridNowaBazaXML" HorizontalAlignment="Left" Height="546" Margin="344,47,0,0"
+                  VerticalAlignment="Top" Width="445" Background="LightCoral">
+                <Button Click="DodajElementy" Content="Dodaj" HorizontalAlignment="Left" Margin="18,10,0,0"
+                        VerticalAlignment="Top" Width="96" Height="39"/>
+                <Button Click="UsunElementy" Content="Usuń" HorizontalAlignment="Left" Margin="278,10,0,0"
+                        VerticalAlignment="Top" Width="114" Height="39"/>
+                <ListBox Name="listBox1" HorizontalAlignment="Left" Height="355" Margin="18,87,0,0" VerticalAlignment="Top"
+                         Width="374"/>
+                <Button Click="Button_Click_1" Content="OK" HorizontalAlignment="Left" Margin="326,470,0,0"
+                        VerticalAlignment="Top" Width="86" Height="46"/>
+                <Label Content="Lista plikow z fakturami" HorizontalAlignment="Left" Margin="18,54,0,0"
+                       VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Height="28"/>
+                <TextBox Name="textBoxProgress" HorizontalAlignment="Left" Height="22" Margin="18,470,0,0"
+                         TextWrapping="Wrap" VerticalAlignment="Top" Width="281"/>
+            </Grid>
+            <Button Click="Button_EditBazeXML" Content="Edytuj bazę XML" HorizontalAlignment="Left" Margin="85,74,0,0"
+                    VerticalAlignment="Top" Width="150" Height="36"/>
+            <ProgressBar x:Name="bar1" HorizontalAlignment="Left" Height="24" Margin="367,548,0,0" VerticalAlignment="Top"
+                         Width="272" Maximum="100"/>
+            <Button Click="Button_Click_2" Content="Edytuj baze klientow MySQL" HorizontalAlignment="Left"
+                    Margin="85,177,0,0" VerticalAlignment="Top" Width="175" Height="35"/>
+        </Grid>
+
+</Window>
