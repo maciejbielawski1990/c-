@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <count_tables>9</count_tables>
+  <count_boards>16</count_boards>
+  <rounds>
+    <int>13</int>
+    <int>14</int>
+    <int>15</int>
+  </rounds>
+  <url>http://www.worldbridge.org/repository/tourn/wroclaw.16/Microsite/Asp/RoundTeams.asp?qtournid=1251&amp;qroundno=</url>
+  <save_as>wroclawOpen15</save_as>
+  <serwer>http://www.worldbridge.org/repository/tourn/wroclaw.16/Microsite/Asp/</serwer>
+  <loadfile>true</loadfile>
+  <openfile>false</openfile>
+</Settings>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <count_tables>10</count_tables>
+  <count_boards>16</count_boards>
+  <rounds>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+  </rounds>
+  <url>http://www.worldbridge.org/repository/tourn/chennai.15/Microsite/Asp/RoundTeams.asp?qtournid=1130&amp;qroundno=</url>
+  <save_as>hahah</save_as>
+  <serwer>http://www.worldbridge.org/repository/tourn/chennai.15/Microsite/Asp/</serwer>
+  <loadfile>false</loadfile>
+  <openfile>false</openfile>
+</Settings>

@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfButlerPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>LI Xiaoyi</name>
+    <team>CHINA</team>
+    <opponentsPlayer>
+      <string>COMBESCURE Francois ROMBAUT Jerome</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>FRANCE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SUN Shaolin</name>
+    <team>CHINA</team>
+    <opponentsPlayer>
+      <string>BESSIS Thomas VOLCKER Frederic</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>FRANCE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KANG Meng</name>
+    <team>CHINA</team>
+    <opponentsPlayer>
+      <string>BESSIS Thomas VOLCKER Frederic</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>FRANCE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>HU Linlin</name>
+    <team>CHINA</team>
+    <opponentsPlayer>
+      <string>COMBESCURE Francois ROMBAUT Jerome</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>FRANCE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BESSIS Thomas</name>
+    <team>FRANCE</team>
+    <opponentsPlayer>
+      <string>SUN Shaolin KANG Meng</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CHINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>COMBESCURE Francois</name>
+    <team>FRANCE</team>
+    <opponentsPlayer>
+      <string>LI Xiaoyi HU Linlin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CHINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ROMBAUT Jerome</name>
+    <team>FRANCE</team>
+    <opponentsPlayer>
+      <string>LI Xiaoyi HU Linlin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CHINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>VOLCKER Frederic</name>
+    <team>FRANCE</team>
+    <opponentsPlayer>
+      <string>SUN Shaolin KANG Meng</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CHINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ELSHORBAGY Emad</name>
+    <team>UNITED ARAB EMIRATES</team>
+    <opponentsPlayer>
+      <string>CHEN Dawei FURUTA Kazuo</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JAPAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>EISSA TAMER</name>
+    <team>UNITED ARAB EMIRATES</team>
+    <opponentsPlayer>
+      <string>TERAMOTO Tadashi KAKU Hiroshi</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JAPAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-17</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ABD ELLATEIF Khaled Hassan</name>
+    <team>UNITED ARAB EMIRATES</team>
+    <opponentsPlayer>
+      <string>TERAMOTO Tadashi KAKU Hiroshi</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JAPAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-17</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MONIR Ahmed</name>
+    <team>UNITED ARAB EMIRATES</team>
+    <opponentsPlayer>
+      <string>CHEN Dawei FURUTA Kazuo</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JAPAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>TERAMOTO Tadashi</name>
+    <team>JAPAN</team>
+    <opponentsPlayer>
+      <string>EISSA TAMER ABD ELLATEIF Khaled Hassan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>UNITED ARAB EMIRATES</string>
+    </opponentsTeam>
+    <imps>
+      <int>17</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>CHEN Dawei</name>
+    <team>JAPAN</team>
+    <opponentsPlayer>
+      <string>ELSHORBAGY Emad MONIR Ahmed</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>UNITED ARAB EMIRATES</string>
+    </opponentsTeam>
+    <imps>
+      <int>-2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>FURUTA Kazuo</name>
+    <team>JAPAN</team>
+    <opponentsPlayer>
+      <string>ELSHORBAGY Emad MONIR Ahmed</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>UNITED ARAB EMIRATES</string>
+    </opponentsTeam>
+    <imps>
+      <int>-2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KAKU Hiroshi</name>
+    <team>JAPAN</team>
+    <opponentsPlayer>
+      <string>EISSA TAMER ABD ELLATEIF Khaled Hassan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>UNITED ARAB EMIRATES</string>
+    </opponentsTeam>
+    <imps>
+      <int>17</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>CORNELL Michael</name>
+    <team>NEW ZEALAND</team>
+    <opponentsPlayer>
+      <string>PELLETIER Jean-Claude GERIN Dominique</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>GUADELOUPE</string>
+    </opponentsTeam>
+    <imps>
+      <int>7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>TISLEVOLL Geir-Olav</name>
+    <team>NEW ZEALAND</team>
+    <opponentsPlayer>
+      <string>BOUVERESSE Jean-Pierre MATHIEU Philippe</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>GUADELOUPE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>WARE Michael</name>
+    <team>NEW ZEALAND</team>
+    <opponentsPlayer>
+      <string>BOUVERESSE Jean-Pierre MATHIEU Philippe</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>GUADELOUPE</string>
+    </opponentsTeam>
+    <imps>
+      <int>-8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BACH Ashley</name>
+    <team>NEW ZEALAND</team>
+    <opponentsPlayer>
+      <string>PELLETIER Jean-Claude GERIN Dominique</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>GUADELOUPE</string>
+    </opponentsTeam>
+    <imps>
+      <int>7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BOUVERESSE Jean-Pierre</name>
+    <team>GUADELOUPE</team>
+    <opponentsPlayer>
+      <string>TISLEVOLL Geir-Olav WARE Michael</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>NEW ZEALAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>PELLETIER Jean-Claude</name>
+    <team>GUADELOUPE</team>
+    <opponentsPlayer>
+      <string>CORNELL Michael BACH Ashley</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>NEW ZEALAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>GERIN Dominique</name>
+    <team>GUADELOUPE</team>
+    <opponentsPlayer>
+      <string>CORNELL Michael BACH Ashley</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>NEW ZEALAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MATHIEU Philippe</name>
+    <team>GUADELOUPE</team>
+    <opponentsPlayer>
+      <string>TISLEVOLL Geir-Olav WARE Michael</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>NEW ZEALAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>STEPHENS Robert</name>
+    <team>SOUTH AFRICA</team>
+    <opponentsPlayer>
+      <string>JASSEM Krzysztof MAZURKIEWICZ Marcin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>POLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>GRUNDER Martin</name>
+    <team>SOUTH AFRICA</team>
+    <opponentsPlayer>
+      <string>KALITA Jacek NOWOSADZKI Michal</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>POLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-12</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KAPREY Imtiaz</name>
+    <team>SOUTH AFRICA</team>
+    <opponentsPlayer>
+      <string>KALITA Jacek NOWOSADZKI Michal</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>POLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-12</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>FICK Hennie</name>
+    <team>SOUTH AFRICA</team>
+    <opponentsPlayer>
+      <string>JASSEM Krzysztof MAZURKIEWICZ Marcin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>POLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KALITA Jacek</name>
+    <team>POLAND</team>
+    <opponentsPlayer>
+      <string>GRUNDER Martin KAPREY Imtiaz</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SOUTH AFRICA</string>
+    </opponentsTeam>
+    <imps>
+      <int>12</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>JASSEM Krzysztof</name>
+    <team>POLAND</team>
+    <opponentsPlayer>
+      <string>STEPHENS Robert FICK Hennie</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SOUTH AFRICA</string>
+    </opponentsTeam>
+    <imps>
+      <int>8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MAZURKIEWICZ Marcin</name>
+    <team>POLAND</team>
+    <opponentsPlayer>
+      <string>STEPHENS Robert FICK Hennie</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SOUTH AFRICA</string>
+    </opponentsTeam>
+    <imps>
+      <int>8</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NOWOSADZKI Michal</name>
+    <team>POLAND</team>
+    <opponentsPlayer>
+      <string>GRUNDER Martin KAPREY Imtiaz</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SOUTH AFRICA</string>
+    </opponentsTeam>
+    <imps>
+      <int>12</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NICKELL Nick</name>
+    <team>USA1</team>
+    <opponentsPlayer>
+      <string>PELLEGRINI Carlos GARCIA DA ROSA Rodrigo</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ARGENTINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>37</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>RODWELL Eric</name>
+    <team>USA1</team>
+    <opponentsPlayer>
+      <string>MUZZIO Ernesto CAMBEROS Hector</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ARGENTINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>26</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MECKSTROTH Jeff</name>
+    <team>USA1</team>
+    <opponentsPlayer>
+      <string>MUZZIO Ernesto CAMBEROS Hector</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ARGENTINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>26</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KATZ Ralph</name>
+    <team>USA1</team>
+    <opponentsPlayer>
+      <string>PELLEGRINI Carlos GARCIA DA ROSA Rodrigo</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ARGENTINA</string>
+    </opponentsTeam>
+    <imps>
+      <int>37</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MUZZIO Ernesto</name>
+    <team>ARGENTINA</team>
+    <opponentsPlayer>
+      <string>RODWELL Eric MECKSTROTH Jeff</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA1</string>
+    </opponentsTeam>
+    <imps>
+      <int>-26</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>PELLEGRINI Carlos</name>
+    <team>ARGENTINA</team>
+    <opponentsPlayer>
+      <string>NICKELL Nick KATZ Ralph</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA1</string>
+    </opponentsTeam>
+    <imps>
+      <int>-37</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>GARCIA DA ROSA Rodrigo</name>
+    <team>ARGENTINA</team>
+    <opponentsPlayer>
+      <string>NICKELL Nick KATZ Ralph</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA1</string>
+    </opponentsTeam>
+    <imps>
+      <int>-37</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>CAMBEROS Hector</name>
+    <team>ARGENTINA</team>
+    <opponentsPlayer>
+      <string>RODWELL Eric MECKSTROTH Jeff</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA1</string>
+    </opponentsTeam>
+    <imps>
+      <int>-26</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>HACKETT Justin</name>
+    <team>ENGLAND</team>
+    <opponentsPlayer>
+      <string>ROY Rana BANERJEE Amar Nath</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>INDIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-23</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ROBSON Andrew</name>
+    <team>ENGLAND</team>
+    <opponentsPlayer>
+      <string>MAJUMDER Subir MANNA Gopinath</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>INDIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>FORRESTER Tony</name>
+    <team>ENGLAND</team>
+    <opponentsPlayer>
+      <string>MAJUMDER Subir MANNA Gopinath</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>INDIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>HACKETT Jason</name>
+    <team>ENGLAND</team>
+    <opponentsPlayer>
+      <string>ROY Rana BANERJEE Amar Nath</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>INDIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-23</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MAJUMDER Subir</name>
+    <team>INDIA</team>
+    <opponentsPlayer>
+      <string>ROBSON Andrew FORRESTER Tony</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ENGLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ROY Rana</name>
+    <team>INDIA</team>
+    <opponentsPlayer>
+      <string>HACKETT Justin HACKETT Jason</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ENGLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>23</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BANERJEE Amar Nath</name>
+    <team>INDIA</team>
+    <opponentsPlayer>
+      <string>HACKETT Justin HACKETT Jason</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ENGLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>23</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MANNA Gopinath</name>
+    <team>INDIA</team>
+    <opponentsPlayer>
+      <string>ROBSON Andrew FORRESTER Tony</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>ENGLAND</string>
+    </opponentsTeam>
+    <imps>
+      <int>-18</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ABDUL-HADI Rana</name>
+    <team>JORDAN</team>
+    <opponentsPlayer>
+      <string>NYSTROM Fredrik UPMARK Johan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SWEDEN</string>
+    </opponentsTeam>
+    <imps>
+      <int>2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SWEIDAN Fadi</name>
+    <team>JORDAN</team>
+    <opponentsPlayer>
+      <string>SYLVAN Johan WRANG Frederic</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SWEDEN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-11</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>HALLASA Jawan</name>
+    <team>JORDAN</team>
+    <opponentsPlayer>
+      <string>SYLVAN Johan WRANG Frederic</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SWEDEN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-11</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ABDUL-JALIL Jamal</name>
+    <team>JORDAN</team>
+    <opponentsPlayer>
+      <string>NYSTROM Fredrik UPMARK Johan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SWEDEN</string>
+    </opponentsTeam>
+    <imps>
+      <int>2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SYLVAN Johan</name>
+    <team>SWEDEN</team>
+    <opponentsPlayer>
+      <string>SWEIDAN Fadi HALLASA Jawan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JORDAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>11</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NYSTROM Fredrik</name>
+    <team>SWEDEN</team>
+    <opponentsPlayer>
+      <string>ABDUL-HADI Rana ABDUL-JALIL Jamal</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JORDAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>UPMARK Johan</name>
+    <team>SWEDEN</team>
+    <opponentsPlayer>
+      <string>ABDUL-HADI Rana ABDUL-JALIL Jamal</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JORDAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>-2</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>WRANG Frederic</name>
+    <team>SWEDEN</team>
+    <opponentsPlayer>
+      <string>SWEIDAN Fadi HALLASA Jawan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>JORDAN</string>
+    </opponentsTeam>
+    <imps>
+      <int>11</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NOSHY Sherif</name>
+    <team>EGYPT</team>
+    <opponentsPlayer>
+      <string>COURTNEY Michael WYER Paul</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>AUSTRALIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-14</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SADEK Tarek</name>
+    <team>EGYPT</team>
+    <opponentsPlayer>
+      <string>MILNE Liam GRIFFITHS Aneurin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>AUSTRALIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>13</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NABIL Karim</name>
+    <team>EGYPT</team>
+    <opponentsPlayer>
+      <string>MILNE Liam GRIFFITHS Aneurin</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>AUSTRALIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>13</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>RAMADAN Baher</name>
+    <team>EGYPT</team>
+    <opponentsPlayer>
+      <string>COURTNEY Michael WYER Paul</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>AUSTRALIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-14</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MILNE Liam</name>
+    <team>AUSTRALIA</team>
+    <opponentsPlayer>
+      <string>SADEK Tarek NABIL Karim</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>EGYPT</string>
+    </opponentsTeam>
+    <imps>
+      <int>-13</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>COURTNEY Michael</name>
+    <team>AUSTRALIA</team>
+    <opponentsPlayer>
+      <string>NOSHY Sherif RAMADAN Baher</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>EGYPT</string>
+    </opponentsTeam>
+    <imps>
+      <int>14</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>WYER Paul</name>
+    <team>AUSTRALIA</team>
+    <opponentsPlayer>
+      <string>NOSHY Sherif RAMADAN Baher</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>EGYPT</string>
+    </opponentsTeam>
+    <imps>
+      <int>14</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>GRIFFITHS Aneurin</name>
+    <team>AUSTRALIA</team>
+    <opponentsPlayer>
+      <string>SADEK Tarek NABIL Karim</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>EGYPT</string>
+    </opponentsTeam>
+    <imps>
+      <int>-13</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SMITH Jeff</name>
+    <team>CANADA</team>
+    <opponentsPlayer>
+      <string>SALOMAO Jeovani BRUM Paulo Roberto</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BRAZIL</string>
+    </opponentsTeam>
+    <imps>
+      <int>-15</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KORBEL Daniel</name>
+    <team>CANADA</team>
+    <opponentsPlayer>
+      <string>BARBOSA Roberto BRENNER Diego</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BRAZIL</string>
+    </opponentsTeam>
+    <imps>
+      <int>-19</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>WOLPERT Darren</name>
+    <team>CANADA</team>
+    <opponentsPlayer>
+      <string>BARBOSA Roberto BRENNER Diego</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BRAZIL</string>
+    </opponentsTeam>
+    <imps>
+      <int>-19</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>MILES Daniel</name>
+    <team>CANADA</team>
+    <opponentsPlayer>
+      <string>SALOMAO Jeovani BRUM Paulo Roberto</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BRAZIL</string>
+    </opponentsTeam>
+    <imps>
+      <int>-15</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BARBOSA Roberto</name>
+    <team>BRAZIL</team>
+    <opponentsPlayer>
+      <string>KORBEL Daniel WOLPERT Darren</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CANADA</string>
+    </opponentsTeam>
+    <imps>
+      <int>19</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SALOMAO Jeovani</name>
+    <team>BRAZIL</team>
+    <opponentsPlayer>
+      <string>SMITH Jeff MILES Daniel</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CANADA</string>
+    </opponentsTeam>
+    <imps>
+      <int>15</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BRUM Paulo Roberto</name>
+    <team>BRAZIL</team>
+    <opponentsPlayer>
+      <string>SMITH Jeff MILES Daniel</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CANADA</string>
+    </opponentsTeam>
+    <imps>
+      <int>15</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>BRENNER Diego</name>
+    <team>BRAZIL</team>
+    <opponentsPlayer>
+      <string>KORBEL Daniel WOLPERT Darren</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>CANADA</string>
+    </opponentsTeam>
+    <imps>
+      <int>19</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>NANEV Ivan</name>
+    <team>BULGARIA</team>
+    <opponentsPlayer>
+      <string>POON Hua LOO Choon Chou</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SINGAPORE</string>
+    </opponentsTeam>
+    <imps>
+      <int>27</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>STAMATOV Jerry</name>
+    <team>BULGARIA</team>
+    <opponentsPlayer>
+      <string>TAN Gideon FONG Kien Hoong</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SINGAPORE</string>
+    </opponentsTeam>
+    <imps>
+      <int>28</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>DANAILOV Diyan</name>
+    <team>BULGARIA</team>
+    <opponentsPlayer>
+      <string>TAN Gideon FONG Kien Hoong</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SINGAPORE</string>
+    </opponentsTeam>
+    <imps>
+      <int>28</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>GUNEV Rossen</name>
+    <team>BULGARIA</team>
+    <opponentsPlayer>
+      <string>POON Hua LOO Choon Chou</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>SINGAPORE</string>
+    </opponentsTeam>
+    <imps>
+      <int>27</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>TAN Gideon</name>
+    <team>SINGAPORE</team>
+    <opponentsPlayer>
+      <string>STAMATOV Jerry DANAILOV Diyan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BULGARIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-28</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>POON Hua</name>
+    <team>SINGAPORE</team>
+    <opponentsPlayer>
+      <string>NANEV Ivan GUNEV Rossen</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BULGARIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-27</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>LOO Choon Chou</name>
+    <team>SINGAPORE</team>
+    <opponentsPlayer>
+      <string>NANEV Ivan GUNEV Rossen</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BULGARIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-27</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>FONG Kien Hoong</name>
+    <team>SINGAPORE</team>
+    <opponentsPlayer>
+      <string>STAMATOV Jerry DANAILOV Diyan</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>BULGARIA</string>
+    </opponentsTeam>
+    <imps>
+      <int>-28</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>SCHALTZ Martin</name>
+    <team>DENMARK</team>
+    <opponentsPlayer>
+      <string>DEMUY Vincent KRANYAK John</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA2</string>
+    </opponentsTeam>
+    <imps>
+      <int>24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>ASKGAARD Michael</name>
+    <team>DENMARK</team>
+    <opponentsPlayer>
+      <string>HURD John WOOLDRIDGE Joel</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA2</string>
+    </opponentsTeam>
+    <imps>
+      <int>7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KONOW Kasper</name>
+    <team>DENMARK</team>
+    <opponentsPlayer>
+      <string>HURD John WOOLDRIDGE Joel</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA2</string>
+    </opponentsTeam>
+    <imps>
+      <int>7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>CHRISTIANSEN Soren</name>
+    <team>DENMARK</team>
+    <opponentsPlayer>
+      <string>DEMUY Vincent KRANYAK John</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>USA2</string>
+    </opponentsTeam>
+    <imps>
+      <int>24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>HURD John</name>
+    <team>USA2</team>
+    <opponentsPlayer>
+      <string>ASKGAARD Michael KONOW Kasper</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>DENMARK</string>
+    </opponentsTeam>
+    <imps>
+      <int>-7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>DEMUY Vincent</name>
+    <team>USA2</team>
+    <opponentsPlayer>
+      <string>SCHALTZ Martin CHRISTIANSEN Soren</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>DENMARK</string>
+    </opponentsTeam>
+    <imps>
+      <int>-24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>KRANYAK John</name>
+    <team>USA2</team>
+    <opponentsPlayer>
+      <string>SCHALTZ Martin CHRISTIANSEN Soren</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>DENMARK</string>
+    </opponentsTeam>
+    <imps>
+      <int>-24</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+  <ButlerPlayer>
+    <idx>0</idx>
+    <name>WOOLDRIDGE Joel</name>
+    <team>USA2</team>
+    <opponentsPlayer>
+      <string>ASKGAARD Michael KONOW Kasper</string>
+    </opponentsPlayer>
+    <opponentsTeam>
+      <string>DENMARK</string>
+    </opponentsTeam>
+    <imps>
+      <int>-7</int>
+    </imps>
+    <boards>0</boards>
+    <sumaImpow>0</sumaImpow>
+    <butler>0</butler>
+  </ButlerPlayer>
+</ArrayOfButlerPlayer>
