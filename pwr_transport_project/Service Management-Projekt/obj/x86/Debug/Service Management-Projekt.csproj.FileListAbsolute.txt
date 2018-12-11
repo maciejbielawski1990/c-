@@ -1,0 +1,39 @@
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.exe.config
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.exe
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.pdb
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Logowanie.baml
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\MainWindow.baml
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Logowanie.g.cs
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\App.g.cs
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt_MarkupCompile.cache
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.g.resources
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service_Management_Projekt.Properties.Resources.resources
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.exe
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.pdb
+C:\Users\Maciek\Documents\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\App.baml
+C:\Users\Maciek\Desktop\Maciek Bielawski\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.exe.config
+C:\Users\Maciek\Desktop\Maciek Bielawski\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.exe
+C:\Users\Maciek\Desktop\Maciek Bielawski\Visual Studio 2010\Projects\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.pdb
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Logowanie.baml
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\App.baml
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Logowanie.g.cs
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.g.resources
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service_Management_Projekt.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.exe.config
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.exe
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\bin\Debug\Service Management-Projekt.pdb
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.exe
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\pwr_transport_project\Service Management-Projekt\obj\x86\Debug\Service Management-Projekt.pdb
