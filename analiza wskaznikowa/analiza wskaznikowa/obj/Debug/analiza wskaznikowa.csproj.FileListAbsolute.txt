@@ -1,0 +1,28 @@
+c:\users\maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.exe.config
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.exe
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.pdb
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\MainWindow.baml
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\MainWindow.g.cs
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\App.g.cs
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa_MarkupCompile.cache
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.g.resources
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza_wskaznikowa.Properties.Resources.resources
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csproj.GenerateResource.Cache
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.exe
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.pdb
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csproj.ResolveComReference.cache
+C:\Users\Maciek\documents\visual studio 2012\Projects\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.exe.config
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.exe
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\bin\Debug\analiza wskaznikowa.pdb
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.g.resources
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza_wskaznikowa.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.exe
+C:\Users\Lenovo\Desktop\job - Kopia\archiwum programow\analiza wskaznikowa\analiza wskaznikowa\obj\Debug\analiza wskaznikowa.pdb
