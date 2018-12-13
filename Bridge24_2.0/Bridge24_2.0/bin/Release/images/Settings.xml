@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ustawienia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tytul_>vg</tytul_>
+  <wyniki_>rs</wyniki_>
+  <nazwiska_>pn</nazwiska_>
+  <rozdanie_>qx</rozdanie_>
+  <rozklad_>md</rozklad_>
+  <licytacja_>mb</licytacja_>
+  <komentarze_>nt</komentarze_>
+  <wisty_>pc</wisty_>
+  <koniec_>pg</koniec_>
+  <ilosc_rozdan_>16</ilosc_rozdan_>
+</Ustawienia>
