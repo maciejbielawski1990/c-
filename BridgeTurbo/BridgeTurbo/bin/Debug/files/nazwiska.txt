@@ -1,0 +1,4 @@
+BRIDGE24PT;Tuczyñski
+BRIDGE24MN;Nowosadzki
+LESNIAK;Leœniewski
+BLJOSEF;Blass

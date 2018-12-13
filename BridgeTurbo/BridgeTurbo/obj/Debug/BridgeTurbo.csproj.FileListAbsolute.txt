@@ -1,0 +1,36 @@
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.exe.config
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.exe
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.pdb
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\MigraDoc.DocumentObjectModel-WPF.resources.dll
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\MigraDoc.Rendering-WPF.dll
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\MigraDoc.RtfRendering-WPF.dll
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\PdfSharp-WPF.dll
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\MainWindow.baml
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\MainWindow.g.cs
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\App.g.cs
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo_MarkupCompile.cache
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.g.resources
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.Properties.Resources.resources
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csproj.GenerateResource.Cache
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.exe
+c:\users\maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.pdb
+C:\Users\Maciek\documents\visual studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2012\Projects\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.exe.config
+G:\Documents\Visual Studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.exe
+G:\Documents\Visual Studio 2012\Projects\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.pdb
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.g.resources
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.exe
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.pdb
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.exe.config
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.exe
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\bin\Debug\BridgeTurbo.pdb
+C:\Users\Lenovo\Desktop\1212\BridgeTurbo\BridgeTurbo\obj\Debug\BridgeTurbo.csproj.CopyComplete
